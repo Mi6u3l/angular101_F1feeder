@@ -3,8 +3,8 @@
   <nav id="secondary" class="main-nav">
     <div class="driver-picture">
       <div class="avatar">
-        <img ng-show="driver" src="img/drivers/{{driver.Driver.driverId}}.png" />
-        <img ng-show="driver" src="img/flags/{{driver.Driver.nationality}}.png" /><br/>
+        <img ng-show="driver" ng-src="img/drivers/{{driver.driverId}}.png" />
+        <img ng-show="driver" ng-src="img/flags/{{driver.nationality}}.png" /><br/>
         {{driver.Driver.givenName}} {{driver.Driver.familyName}}
       </div>
     </div>
