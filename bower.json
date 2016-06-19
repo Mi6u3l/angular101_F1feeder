@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "f1feerder",
+  "description": "Angular101 F1FeederApp",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/Mi6u3l/angular101_F1feeder",
   "license": "MIT",
   "private": true,
   "dependencies": {
